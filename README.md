@@ -9,6 +9,8 @@
 
 ### Wishing Language change and add telegram bot
 ```
+pkg update && pkg upgrade -y
+
 bash Lsetup.sh
 ```
 ```
