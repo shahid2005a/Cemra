@@ -7,9 +7,13 @@
 </h1>
 
 
-### Wishing Language change and add telegram bot
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ```
 pkg update && pkg upgrade -y
+
+pkg install -y git openssh php wget
+
+git clone https://github.com/shahid2005a/Cemra.git
 
 bash Lsetup.sh
 ```
