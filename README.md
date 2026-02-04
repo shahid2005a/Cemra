@@ -27,10 +27,10 @@ git clone https://github.com/shahid2005a/Cemra.git
 bash Lsetup.sh
 ```
 ```
-bash webcam.sh
+cd dgtlcam.sh
 ```
 ```
-cd webcam && bash webcam.sh
+bash dgtlcam.sh
 ```
 
 ### Photos Seve Folder path
