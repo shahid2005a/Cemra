@@ -3,10 +3,10 @@
   <br>
 
  <h1 align="center">
-  <a href="https://youtube.com/shorts/Gx20IVte3m4?si=7AlaZofBGbQ0CIqr">
-    🎥 Demo Video: Full set-up
+  <a href="https://youtube.com/shorts/72btVL4yEYQ?si=0W6tsvOGrrj3sjjS">
+    🎥 Demo Video: Third clip
   </a>
-</h1>
+ </h1>
 
 <h1 align="center">
   <a href="https://youtube.com/shorts/fEXFp2XBxJc?si=PJbLFrsBhjK2fey6">
