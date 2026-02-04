@@ -24,10 +24,11 @@ pkg install -y git openssh php wget
 
 git clone https://github.com/shahid2005a/Cemra.git
 
+
+```
+cd Cemra
+```
 bash Lsetup.sh
-```
-```
-cd dgtlcam.sh
 ```
 ```
 bash dgtlcam.sh
