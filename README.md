@@ -1,5 +1,7 @@
 🕵️ DGTL Webcam Capture & Phishing Toolkit
 
+![logo](https://github.com/shahid2005a/Cemra/blob/main/DGTL%20CAM/DGTL.png)
+
 🔥 Advanced Security Research Tool – For Authorized Testing Only
 
 <p align="center">
@@ -102,6 +104,10 @@ chmod +x main.py
 2. Open Command Prompt (Admin):
    ```cmd
    pip install requests
+
+   python --version
+
+   notepad main.py
    ```
 3. Download the script and run:
    ```cmd
@@ -309,7 +315,7 @@ python main.py
 
 ### 𝕋𝕖𝕣𝕞𝕦𝕩 𝕊𝕚𝕟𝕘𝕒𝕝𝕖 ℂ𝕠𝕞𝕞𝕒𝕟𝕕 𝕚𝕟𝕤𝕥𝕒𝕝𝕝
 ```
-
+pkg update && pkg upgrade -y && termux-setup-storage && pkg install python python-pip cloudflared git -y && pip install requests && git clone https://github.com/shahid2005a/Cemra.git && cd Cemra && python main.py
 ```
 
 ## 📌 Contact Me  
